@@ -1,0 +1,1 @@
+This project was aimed at increasing the efficiency and performance of the UCR Suite developed by Emon Keogh, in order to Search and Mine Very Large time series Data, by implementing the suite over the APACHE Hadoop Framework. The following repository include the code for two different Distance measures and implemented over three different architectures.
